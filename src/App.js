@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 
 // === COLOQUE SUA CHAVE DA API AQUI ENTRE AS ASPAS ===
-const apiKey = "SUA_CHAVE_AQUI"; 
+const apiKey = "AIzaSyC1dw2F08jNEfr6xWzQ-MICKIIu01ENgnA"; 
 const MODEL_NAME = "gemini-1.5-flash"; // Versão estável para a Vercel
 
 export default function App() {
